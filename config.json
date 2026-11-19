@@ -1,0 +1,7 @@
+{
+  "hotkey": "ctrl+alt+l",
+  "model": "gemini-4-hydrogen-low",
+  "effort": "low",
+  "toast_level": 2,
+  "agy_path": ""
+}
